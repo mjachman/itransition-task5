@@ -3,7 +3,7 @@
 Mining extraction dashboard, statistical anomaly detection suite, and automated PDF audit report generator.
 
 - **Google Spreadsheet (Formula Generator):** [Public Sheet](https://docs.google.com/spreadsheets/d/105EFki4awWcuEKCouSRobgXg-MvGx4xPOUaRTo05Shg/edit)
-- **Live Streamlit Dashboard:** [(https://itransition-task5.streamlit.app/)](https://itransition-task5.streamlit.app/)
+- **Live Streamlit Dashboard:** [(https://itransition-task5.streamlit.app/)]https://itransition-task5.streamlit.app/
 
 ### Features
 - Dynamic extraction model with statistical distributions, weekday cycles, exponential trends, and compound event shocks.
